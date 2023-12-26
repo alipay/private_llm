@@ -47,7 +47,7 @@ python edge_device.py <weight_path> <llama_path> [--ip 127.0.0.1] [--port 12345]
 
 You should then see something like this.
 <figure>
-<img src="../doc/blog/demo_gen.gif" >
+<img src="../doc/figs/demo_gen.gif" >
 <figcaption style="text-align: center;">Screenshots of Edge Device running on CPU.</figcaption>
 </figure>
 

@@ -1,11 +1,11 @@
 # PrivateLoRA for GenAI Model Privatization
 
-| [paper](https://arxiv.org/abs/2311.14030) | [weight](https://huggingface.co/wanglamao/PrivateLoRA_GSM8K) | [Blog](https://wanglamao.github.io/)
+| [Paper](https://arxiv.org/abs/2311.14030) | [Weight](https://huggingface.co/wanglamao/PrivateLoRA_GSM8K) | [Blog](https://wanglamao.github.io/) | [Demo](./demo/readme.md) |
 ## Overview
 
 
 <figure>
-<img src="./doc/blog/privatelora.png" >
+<img src="./doc/figs/privatelora.png" >
 <figcaption style="text-align: center;"></figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ To demonstrate that PrivateLoRA offers great user experience from model privatiz
 
 
 <figure>
-<img src="./doc/blog/demo_gen.gif" >
+<img src="./doc/figs/demo_gen.gif" >
 <figcaption style="text-align: center;">Screenshots of Edge Device running on CPU.</figcaption>
 </figure>
 
