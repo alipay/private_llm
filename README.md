@@ -4,8 +4,8 @@
 ## Overview
 
 
-<figure>
-<img src="./doc/figs/privatelora.png" >
+<figure style="text-align: center;">
+<img src="./doc/figs/privatelora.png" width=480>
 <figcaption style="text-align: center;"></figcaption>
 </figure>
 
@@ -63,8 +63,8 @@ Evaluation results will be logged in tensorboard during training.
 To demonstrate that PrivateLoRA offers great user experience from model privatization, we make a runnable demo.
 
 
-<figure>
-<img src="./doc/figs/demo_gen.gif" >
+<figure style="text-align: center;">
+<img src="./doc/figs/demo_gen.gif" width=480 >
 <figcaption style="text-align: center;">Screenshots of Edge Device running on CPU.</figcaption>
 </figure>
 
