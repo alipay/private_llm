@@ -14,7 +14,7 @@ parser.add_argument(
     "pl_path",
     required=True,
     default=None,
-    help="PrivateLoRA weights trained on GSM8K, download it from ",
+    help="PrivateLoRA weights trained on GSM8K, download it from https://huggingface.co/wanglamao/PrivateLoRA_GSM8K",
 )
 parser.add_argument(
     "output_dir", required=True, default=None, help="dir for prepared weights"

@@ -22,7 +22,7 @@ This step prepares weight dict for cloud model and device model.
 Run the following command to prepare weights.
 ```bash
 cd demo
-python prepare_weights.py <llama_path> <privatelora_path> <output_dir>
+python prepare_weights.py <llama_dir> <pl_path> <output_dir>
 # python prepare_weights.py ./llama2-7b ./pl_gsm8k.bin weights/
 ```
 
